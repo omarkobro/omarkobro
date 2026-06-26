@@ -96,14 +96,21 @@ const omar = {
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=omarkobro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarkobro&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=omarkobro&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
 
 </div>
+
+---
+
+## 🔥 Currently
+
+- 🏗️ Building **CoachHub** — a multi-tenant SaaS platform for fitness coaches (NestJS · PostgreSQL · Microservices)
+- 📚 Deepening skills in **system design**, **microservices**, and **PostgreSQL** through ITI
+- 🎯 Targeting my **first backend role** post-graduation
 
 ---
 
